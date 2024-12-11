@@ -1,7 +1,7 @@
 ## Hi there 👋
 this is my first git repository.
 <br>
-author by-<h1>monishkanigam</h1>
+author by-monishkanigam
 
 <!--
 **yanshikanigam/yanshikanigam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
